@@ -31,7 +31,7 @@ git clone https://github.com/loys-montanari/fila-pilha.git
 2. Navegue até o diretório do projeto:
 
 ```
-cd repo-estrutura-dados-fila-pilha
+cd fila-pilha
 ```
 
 3. Compile o projeto usando o comando `dotnet build`:
