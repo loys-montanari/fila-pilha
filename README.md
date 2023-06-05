@@ -25,7 +25,7 @@ Siga as etapas abaixo para usar as implementações de fila e pilha neste reposi
 1. Clone este repositório em sua máquina local usando o seguinte comando:
 
 ```
-git clone https://github.com/seu-usuario/repo-estrutura-dados-fila-pilha.git
+git clone https://github.com/loys-montanari/fila-pilha.git
 ```
 
 2. Navegue até o diretório do projeto:
